@@ -1,6 +1,6 @@
 body {
   background-color: #f5f7fa;
-  padding: 40px;
+  padding: 10px;
   font-family: "Montserrat", sans-serif;
 }
 
@@ -23,16 +23,15 @@ body {
 
 .right-side {
   width: 830px;
-  padding-left: 80px;
-  padding-right: 100px;
-  padding-top: 68px;
+  padding-left: 50px;
+  padding-right: 70px;
   padding-bottom: 10px;
 }
 
 .bio-title {
   font-size: 45px;
   line-height: 2;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .bio-occupation {
@@ -62,7 +61,7 @@ body {
 }
 
 .projects-link {
-  color: #220fdc;
+  color: #00bfff;
   font-size: 14px;
   line-height: 24px;
 }
@@ -90,6 +89,7 @@ body {
   color: #828282;
   font-size: 12px;
   line-height: 1;
+  float: right;
 }
 
 .experience-item {
